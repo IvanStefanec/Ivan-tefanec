@@ -1,0 +1,88 @@
+
+	<!DOCTYPE html>
+    <html>
+        <head>
+            <link rel="stylesheet" href="css6-7.css">
+            <meta name="viewport" content="width=device-width; initial-scale=1.0; maximum-scale=1.0; user-scalable=0;">
+            <meta http-equiv="content-type" content="text/html; charset=utf-8">
+            <meta name="description" content="some description">
+            <meta name="keywords" content="keyword 1, keyword 2, keyword 3, keyword 4, ...">
+            <link rel="shortcut icon" type="image/x-icon" style="width: 8px; margin-top:0.4em" href="logo.png">
+            <title>Proizvodi-Limovod Čunčić d.o.o.</title>
+        </head>
+    <body>
+        <header>
+            <div class="hero-image"></div>
+            <nav>
+                <ul>
+                  <li><a href="html4.html">Početna</a></li>
+                  <li><a href="html5.html">Novosti</a></li>
+                  <li><a href="html 7.html">Kontakt</a></li>
+                  <li><a href="html-9.html">O nama</a></li>
+                  <li><a href="html-8.html">Proizvodi</a></li>
+                </ul>
+            </nav>
+        </header>
+    </body>
+    </html>
+    <main>
+		<h1>Proizvodi:</h1>
+		<div id="Proizvodi">
+
+			<figure id="1">
+				<a href="snjegobran.png" target="new"></a>	
+				<img src="snjegobran.png" alt="Snjegobrani" title="Snjegobrani za limeni pokrov">
+				<figcaption>Standardni snjegobrani su dužine 1,25 m i 62.5 cm. Moguće je napraviti snjegobrane dužine po želji kupca. Moguće je napraviti od bilo koje sjajne ili matirane boje ili od pocinčanog lima.<figcaption>
+			</figure>
+
+			<figure id="2">
+				<a href="kapa za dimnjak.png" target="new"></a>	
+				<img src="kapa za dimnjak.png" alt="kapa za dimnjak" title="kapa za dimnjak">
+				<figcaption>Kapa za dimnjak je moguće naručiti po točnim dimenzijama vašega dimnjaka. Moguće je napraviti u bilo kojoj sjajnoj boji ili od pocinčanog lima.<figcaption>
+			</figure>
+
+			<figure id="3">
+				<img src="Žljebi i cijevi rš33.png" alt="Žljebi i cijevi rš33" title="Žljebi i cijevi rš33">
+				<figcaption>Žljebi i cijevi je moguće napraviti u bilo kojoj sjajnoj boji ili od pocinčanog lima.<figcaption>
+			</figure>
+
+			<figure id="4">
+				<img src="t20.png" alt="Trapezni lim (T20)" title="Trapezni lim (T20)">
+				<figcaption>Trapezni lim pokriva širinu 1.10 metara, te dužina po želji kupca. Moguće je uzeti u bilo kojoj matiranoj ili sjajnoj boji i od pocinčanog lima.<figcaption>
+			</figure>
+
+			<figure id="5">
+				<img src="tacne.png" alt="Tacne" title="Tacne">
+				<figcaption>Izrada tacna za različite upotrebe.<figcaption>
+			</figure>
+			<figure id="6">
+				<img src="vjetro lajsen.png" alt="Vjetro lajsne" title="Vjetro lajsne">
+				<figcaption>Dužina i širina vjetro lajsna po želji kupca. Moguće je napraviti u bilo kojoj sjajnoj i mat boji ili od pocinčanog lima.<figcaption>
+			</figure>
+
+			<figure id="7">
+				<img src="Perforirani lim.png" alt="Perforirani lim" title="Perforirani lim">
+				<figcaption>Izrada perforiranog lima je moguće dobiti u izdanju R.Š. 6.5 cm, R.Š. 8.5 cm, R.Š. 10 cm, te je moguće po želji kupca. Moguće je napraviti u bilo kojoj sjajnoj boji ili od pocinčanog lima.<figcaption>
+			</figure>
+
+			<figure id="8">
+				<img src="kape za cijevi.png" alt="Kape za cijevi" title="Kape za cijevi">
+				<figcaption>Izrada kape za cijev moguće je naručiti po različitim dimenzijama cijevi. Moguće je napraviti u bilo kojoj sjajnoj boji ili od pocinčanog lima.<figcaption>
+			</figure>
+
+			<figure id="9">
+				<img src="Sljemenski lim.png" alt="Sljemeni lim" title="Sljemeni lim">
+				<figcaption>Dužina i širina sljemenskog lima po želji kupca. Moguće je napraviti u sjojnoj i matiranoj boji ili od pocinčanog lima.<figcaption>
+			</figure>
+
+			<figure id="10">
+				<img src="opšav.png" alt="Opšav dimnjaka" title="Opšav dimnjaka">
+				<figcaption>Izrada opšava dimnjaka se radi po točnim dimenzijama vašeg dimnjaka. Moguće je napraviti u bilo kojoj sjajnoj i matiranoj boji ili od pocinčanog lima.<figcaption>
+			</figure>
+		</div>
+	</main>
+	<footer>
+		<p>Copyright &copy; Ivan Štefanec 2022; <a href="https://github.com/IvanStefanec"><img src="github.png" style="width:24px; margin-top:0.4em" title="Github" alt="Github"></a></p>
+	</footer>
+</body>
+</html>
