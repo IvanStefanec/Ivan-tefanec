@@ -1,0 +1,38 @@
+body, html {
+	font-family: cursive;
+	margin: 5;
+	font-size: 16px;
+}
+header {
+	display: block;
+	width: 100%;
+}
+.hero-image {
+	background-image: url("naslovna.jpeg");
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+background-size: contain;
+	position: relative;
+	height: 300px;
+}
+ul {
+    list-style-type: square;
+	margin: auto;
+	padding: 10px 50px 20px 0;
+	overflow: auto;
+	background-color: rgb(25, 214, 228);
+}
+li {
+	float: left;
+}
+li a {
+	display: block;
+	color: rgb(0, 0, 0);
+	text-align: center;
+	padding: 10px 50px 20px;
+	text-decoration: none;
+}
+li a:hover {
+	background-color: rgb(255, 255, 255);
+}
