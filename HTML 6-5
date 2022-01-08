@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<link rel="stylesheet" href="css6-7.css">
+		<meta name="viewport" content="width=device-width; initial-scale=1.0; maximum-scale=1.0; user-scalable=0;">
+        <meta http-equiv="content-type" content="text/html; charset=utf-8">
+        <meta name="description" content="some description">
+        <meta name="keywords" content="keyword 1, keyword 2, keyword 3, keyword 4, ...">
+        <link rel="shortcut icon" type="image/x-icon" style="width: 8px; margin-top:0.4em" href="logo.png">
+		<title>Dostava-Limovod Čunčić d.o.o.
+        </title>
+	</head>
+<body>
+	<header>
+		<div class="hero-image"></div>
+		<nav>
+			<ul>
+				<li><a href="html4.html">Početna</a></li>
+				<li><a href="html5.html">Novosti</a></li>
+				<li><a href="html 7.html">Kontakt</a></li>
+				<li><a href="html-9.html">O nama</a></li>
+				<li><a href="html-8.html">Proizvodi</a></li>
+			</ul>
+		</nav>
+	</header>
+</body>
+</html>
+	<main>
+        <h2>Dostava na kučnu adresu</h2>
+		<div id="Novosti">
+
+            <figure id="1">
+
+                <img src="dostova.jpg" alt="Dostava do vaše kuče." title="Dostava do vaše kuče.">
+
+                <figcaption>Dostava do vaše kuče.<figcaption>
+
+            </figure>
+
+            <figure id="2">
+
+                <img src="sisak.jpeg" alt="Dostava do našeg dučana u Sisku." title="Dostava do našeg dučana u Sisku.">
+
+                <figcaption>Dostava do našeg dučana u Sisku.<figcaption>
+
+            </figure>
+
+        </div>
+			<p>Nudimo dostave građevinske limarije unutar: Zagreba, Zagrebačke županije i Sisačko-moslavačke županije</a></p>
+            <P>Dostava se plaća ovisno o udaljenosti. Okvirna cijena za Sisačko-moslavačku županiju je dostava 200kn, te se dostava vrši svaki petak ili subotu.</a></P>
+            <p>Okvirna cijena za Zagreb i Zagrebačku županiju je 150kn, te se može dostaviti bilo koji dan u tjednu po dogovoru sa kupcem.</a></p>
+			<footer>
+				<p>Copyright &copy; Ivan Štefanec 2022; <a href="https://github.com/IvanStefanec"><img src="github.png" style="width:24px; margin-top:0.4em" title="Github" alt="Github"></a></p>
+			</footer>
+			<hr>
