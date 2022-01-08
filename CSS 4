@@ -1,0 +1,90 @@
+body, html {
+	font-family: cursive;
+	margin: 5;
+	font-size: 16px;
+}
+header {
+	display: block;
+	width: 100%;
+}
+.hero-image {
+	background-image: url("naslovna.jpeg");
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+background-size: contain;
+	position: relative;
+	height: 300px;
+}
+ul {
+    list-style-type: square;
+	margin: auto;
+	padding: 0;
+	overflow: auto;
+	background-color: #317beb;
+}
+li {
+	float: left;
+}
+li a {
+	display: block;
+	color: rgb(0, 0, 0);
+	text-align: center;
+	padding: 10px 50px 20px;
+	text-decoration: none;
+}
+li a:hover {
+	background-color: #111;
+}
+h1,h2 {
+	margin: 0.5em;
+	font-size: 2em;
+}
+h2 {
+	font-size: 1.5em;
+	color: #317beb;
+}
+main a {
+	color: #5824e7;
+	text-decoration: none;
+}
+main a:hover {
+	color: #1164e2;
+	text-decoration: underline;
+}
+p {
+	margin: 1em;
+	line-height: 1.4em;
+	letter-spacing: 1px;
+}
+hr {
+	margin: 1em;
+	border: 1px dotted #27318b;
+	clear: both;
+}
+figure {
+	padding: 0.5em;
+	margin: 0 1em 0.5em 1em;
+	float: left;
+	width: 35%;
+	border: 1px solid black;
+}
+figcaption {
+	font-size: 90%;
+}
+img {
+	width: 100%;
+}
+footer {
+	background-color: #333;
+	padding: 0.1em;
+	clear: both;
+}
+footer p {
+	color: rgb(221, 62, 62);
+	text-align: center;
+	margin: 0.5em;
+}
+footer img {
+	width: 20px;
+}
