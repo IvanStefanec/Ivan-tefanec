@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<link rel="stylesheet" href="css6-7.css">
+		<meta name="viewport" content="width=device-width; initial-scale=1.0; maximum-scale=1.0; user-scalable=0;">
+        <meta http-equiv="content-type" content="text/html; charset=utf-8">
+        <meta name="description" content="some description">
+        <meta name="keywords" content="keyword 1, keyword 2, keyword 3, keyword 4, ...">
+        <link rel="shortcut icon" type="image/x-icon" style="width: 8px; margin-top:0.4em" href="logo.png">
+		<title>Novosti-Limovod Čunčić d.o.o.</title>
+	</head>
+<body>
+	<header>
+		<div class="hero-image"></div>
+		<nav>
+			<ul>
+				<li><a href="html4.html">Početna</a></li>
+				<li><a href="html5.html">Novosti</a></li>
+				<li><a href="html 7.html">Kontakt</a></li>
+				<li><a href="html-9.html">O nama</a></li>
+				<li><a href="html-8.html">Proizvodi</a></li>
+			</ul>
+		</nav>
+	</header>
+</body>
+</html>
+	<main>
+
+        <h1>Novosti:</h1>
+		<div class="Novosti">
+		    <a href="html 5-1.html"><img src="trapez.jpg" alt="Slika koja pokazuje trapezni lim" title="Trapezni lim"></a>
+			<h2>Trapezni lim (T20)</h2>
+			<p>Trenutno je moguče naručiti Trapezni lim bilo koje sjajne ili matirane boje. Od trenutka vaše naruđbe maksimalo treba pričekati 3 dana kako bi vaša naruđba bila gotova. </a></p>
+			<p><time datetime="2021-12-18">18. Prosinac 2021</time></p>
+			<hr>
+
+			<a href="html 5-2.html"><img src="imitacija.jpg" alt="Slika koja pokazuje mašinu imitacije crijepa" title="Imitacija crijepa"></a>
+			<h2>Mašina za imitaciju crijepa </h2>
+			<p>Ove godine je u planu kupiti mašinu za izradu imitacije crijepa.</a></p>
+			<p><time datetime="2022-01-03">03 Siječanj 2022</time></p>
+			<hr>
+
+			<a href="stranica za to"><img src="zgrade.webp" alt="Slika koja prikazuje zgradu rađenu od strane Limovod Čunčić-a" title="Zgrada rađena od strane Limovod Čunčić-a"></a>
+			<h2>Smanjili smo montaže i demontaže</h2>
+			<p>Radi velike potražnje za proizvodnjom, odlučili smo više se posvetiti samoj proizvodnji.</a></p>
+			<p><time datetime="2022-01-06">06 Siječanj 2022</time></p>
+			<hr>
+
+            <a href="html 5-4.html"><img src="radnik.jpg" alt="Slika prikazuje primjerak radnika" title="Radnik na visini"></a>
+			<h2>Potražnja za majstorima i pomoćnim majstorima</h2>
+			<p>Zapošljavamo više radnika i pomoćnih radnika sa ili bez radnog iskustva.</a></p>
+			<p><time datetime="2022-01-06">06 Siječanj 2022</time></p>
+			<hr>
+
+            <a href="html 5-5.html"><img src="dostova.jpg" alt="Slika koja prikazuje dostavu od strane Limovod Čunčić-a" title="Dostava od strane Limovod Čunčić-a"></a>
+			<h2>Dostava na kučnu adresu</h2>
+			<p>Nudimo dostavu vaše građevinske limarije po: Zagrebu, Zagrebačkoj županiji i Sisačko-moslavačkoj županiji</a></p>
+			<p><time datetime="2022-01-06">06 Siječanj 2022</time></p>
+			<hr>
+
+		</div>
+	</main>
+	<footer>
+		<p>Copyright &copy; Ivan Štefanec 2022; <a href="https://github.com/IvanStefanec"><img src="github.png" style="width:24px; margin-top:0.4em" title="Github" alt="Github"></a></p>
+	</footer>
+</body>
+</html>
