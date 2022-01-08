@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+    <html>
+        <head>
+            <link rel="stylesheet" href="css6-7.css">
+            <meta name="viewport" content="width=device-width; initial-scale=1.0; maximum-scale=1.0; user-scalable=0;">
+            <meta http-equiv="content-type" content="text/html; charset=utf-8">
+            <meta name="description" content="some description">
+            <meta name="keywords" content="keyword 1, keyword 2, keyword 3, keyword 4, ...">
+            <link rel="shortcut icon" type="image/x-icon" style="width: 8px; margin-top:0.4em" href="logo.png">
+            <title>Proizvodi-Limovod Čunčić d.o.o.</title>
+        </head>
+    <body>
+        <header>
+            <div class="hero-image"></div>
+            <nav>
+                <ul>
+                    <li><a href="html4.html">Početna</a></li>
+                    <li><a href="html5.html">Novosti</a></li>
+                    <li><a href="html 7.html">Kontakt</a></li>
+                    <li><a href="html-9.html">O nama</a></li>
+                    <li><a href="html-8.html">Proizvodi</a></li>
+                </ul>
+            </nav>
+        </header>
+    </body>
+    </html>
+<main>
+    <h1>O nama:</h1>
+    <video width="40%" controls poster="sliks trapeza.png" >
+      <source src="video1.mp4" type="video/mp4">
+      Your browser does not support HTML5 video.
+    </video>
+    <p>LIMOVOD ČUNČIĆ d.o.o.ima dugu tradiciju od 1967.
+
+        Naš proizvodni asortiman čine:
+        
+        1. Limeni pokrov  („faltz“pokrov,imitacija crijepa, trapezni pokrov)
+        2. Cijevi (okrugle, četvrtaste)
+        3. Žlijebi (okrugle, četvrtaste, ukopane žlijebi)
+        4. Razni završni profili (vjetro lajsna, zidni lim, parapetni lim, dilatacijski limovi,sljemenski lim, klupčice, puc lajsna, podložni lim, uvalni lim, odkapni limovi)
+        5. Razni opšavi (dimnjaka, antene i struje, krovnih prozora)
+        6. Perforirani lim (odzraka, podgled,)
+        7. Dimnjačke kape
+        8. Spojni i pričvrsni pribor (sika u raznim bojama, silikoni, šarafi za lim, iver šarafi, bakreni, inox, pop nitne pocinčane i u ralnim bojama te bakrene i aluminijske obične i bojane)
+        9. Razni držaći (kuke okrugle, kuke četvrtaste, šelne okrugle, šelne četvrtaste)
+        10. Pribor i galanterija (vinkla čet/okrugla,kotliči okr/čet s okrugl na čet i obratno, štucne okr/čet, skupljač oborinskih voda, izljevna koljena okr/čet, vučena koljena, labuđi vrat okr/čet, odzraka za šindru, etaže, rozete, ukrasi za žlijeb, sakupljač lišča, forkopf okr/čet ,
+        11.  Snjegobrani (za sve vrste limenih pokrova, za sve vrste crijepa u raznim bojama, cijevni)
+        12. Poštanski sandučići.</p>
+    <p>Među uslugama koje nudimo izdvajamo slijedeće:
+
+        Montaža građevinske limarije i limenog pokrova
+        Rezanje i savijanje lima
+        Građevinski radovi
+        Tesarski radovi
+        Krovopokrivački radovi
+        Limarski radovi
+        Izrada sjenica i nadstrešnica
+        Farbanje krovišta
+        Montaža limenih pokrova i trapeznih limova.</p>
+    <p>Nalazimo se na adresi Josipa Jurja Strossmayera 185, 44000 Sisak i Pucekovići ul. 20, 10419, Kuče.</p>
+    <p>On <time datetime="2022-07-01">7 Siječanj 2022</time></p>
+    <p>Video preuzet sa: <a href="https://www.facebook.com/watch/?v=598770090503492" target="_blank">Facebook-Limovod Čunčić d.o.o.</a></p>
+</main>
+<footer>
+    <p>Copyright &copy; Ivan Štefanec 2022; <a href="https://github.com/IvanStefanec"><img src="github.png" style="width:24px; margin-top:0.4em" title="Github" alt="Github"></a></p>
+</footer>
+</body>
+</html>
